@@ -22,5 +22,4 @@ days_remaining = years * 365
 weeks_remaining = years * 52
 months_remaining = years * 12
 
-print(
-    f"You have {days_remaining} days, {weeks_remaining} weeks, and {months_remaining} months left.")
+print(f"You have {days_remaining} days, {weeks_remaining} weeks, and {months_remaining} months left.")
